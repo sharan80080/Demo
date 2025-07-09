@@ -1,1 +1,2 @@
-difference between revert, rebase and reset.
+Difference between revert, reset and rebase.
+hello frnds.........
