@@ -1,2 +1,2 @@
-Difference between revert, reset and rebase.
-hello frnds.........
+Q: Difference between revert, reset and rebase?
+A:
